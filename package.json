@@ -1,6 +1,6 @@
 {
-  "name": "Example Texture Pack",
+  "name": "Lamborghini Centenario",
   "models": {
-    "boat": "models/boat.glb"
+    "boat": "lamborghini-centenario.glb"
   }
 }
